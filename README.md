@@ -1,2 +1,2 @@
 # TestC
-Testning C
+Testning C for git commands demonstration
